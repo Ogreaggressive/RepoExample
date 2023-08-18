@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>
-          el que lea esto es sus amogus
+          el que lea esto es sus amogus x2
         </p>
         <a
           className="App-link"
