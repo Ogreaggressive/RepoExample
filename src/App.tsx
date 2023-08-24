@@ -12,7 +12,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>
-          2 + 2 es = {sumar(2,2)}
+          2 + 3 es = {sumar(2,3)}
         </p>
         <a
           className="App-link"
