@@ -13,6 +13,8 @@ function App() {
         </p>
         <p>
           2 + 3 es = {sumar(2,3)}
+          2 + 3 es = {sumar(2,3)}
+          2 + 3 es = {sumar(2,3)}
         </p>
         <a
           className="App-link"
