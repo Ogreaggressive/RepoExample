@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {sumar,multiplicar} from "./functions";
 
 function App() {
   return (
@@ -12,9 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>
-          2 + 3 es = {sumar(2,3)}
-          2 + 3 es = {sumar(2,3)}
-          2 + 3 es = {sumar(2,3)}
+          2 + 3 es = 5
         </p>
         <a
           className="App-link"
